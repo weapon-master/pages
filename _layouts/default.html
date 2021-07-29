@@ -27,10 +27,12 @@
           {% endif %}
         </header>
     </div>
-    <!-- TOC -->
-    {% include toc.html html=content %}
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      <section class="inner>
+        <h3>目录：点击可直接跳转到对应问题</h3>
+        {% include toc.html html=content %}
+      </section>
       <section id="main_content" class="inner">
         {{ content }}
       </section>
