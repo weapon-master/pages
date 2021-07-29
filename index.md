@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# 业主2群FAQ
 
-You can use the [editor on GitHub](https://github.com/weapon-master/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 写在前面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 请各位邻居先仔细查看该文档再提问，尽量避免提问已经回答过的问题，避免刷屏，节省大家时间。
 
-### Markdown
+## 业委会选举相关
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Q：业委会换届改组时间
 
-```markdown
-Syntax highlighted code block
+日期：2021-8-1 ~ 2021-8-3
 
-# Header 1
-## Header 2
-### Header 3
+时间：上午9点-11点，下午两点-四点
 
-- Bulleted
-- List
+![](https://qiniu.weapon-master.online/WechatIMG9137.jpeg)
 
-1. Numbered
-2. List
+![](https://qiniu.weapon-master.online/WechatIMG9136.jpeg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Q：群里候选人都有谁？对应群里ID是谁？
 
-### Jekyll Themes
+![](https://qiniu.weapon-master.online/WechatIMG9019.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weapon-master/pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+群昵称：Brady song ->宋炜，姚->姚幸君 
 
-### Support or Contact
+## 其他
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Q：如何知道我是哪个村的？
+
+![](https://qiniu.weapon-master.online/WechatIMG8802.jpeg)
+
+### Q: 居委会在哪儿？如何联系？
+
+![](https://qiniu.weapon-master.online/WechatIMG8793.jpeg)
