@@ -1,7 +1,8 @@
 # 志愿者手册
 
 ## 倡议书
-[点击查看]（/pages/proposal)
+
+[点击这里查看倡议书](https://weapon-master.github.io/pages/proposal)
 
 ## 业主们关注的问题
 
