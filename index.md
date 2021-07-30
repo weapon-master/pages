@@ -50,6 +50,8 @@
 
 ### Q：如何找到组织，共商大计？
 
+[加入楼栋群，找到离你最近的邻居和伙伴](https://docs.qq.com/doc/DTWpVY29Ea3JMR0VS)
+
 ![](https://qiniu.weapon-master.online/7231627638364_.pic.jpg)
 ![](https://qiniu.weapon-master.online/7231627638364_.pic.jpg)
 
