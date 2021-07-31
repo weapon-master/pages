@@ -44,7 +44,7 @@
 
 这个**不能保证**。
 
-首先，看下[他们现在做得有多差](#current-status)。
+首先，看下[他们现在做得有多差](#维修基金去哪儿了)。
 
 其实可以换下面几个问题问自己。
 
@@ -74,7 +74,7 @@
 
 ![](https://qiniu.weapon-master.online/WechatIMG37678.jpeg)
 
-### <a id="current-status">Q: 小区维修基金现状</a>
+### Q: 小区维修基金现状
 
 ![](https://qiniu.weapon-master.online/WechatIMG37682.jpeg)
 
